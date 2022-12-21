@@ -1,0 +1,16 @@
+{
+    "name": "app/phpunit",
+    "type": "prpject",
+    "autoload": {
+        "psr-4": {
+            "App\\Phpunit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Makoto Ikami",
+            "email": "makoto.ikami@gmail.com"
+        }
+    ],
+    "require": {}
+}
